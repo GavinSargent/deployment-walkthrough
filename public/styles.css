@@ -6,7 +6,7 @@ button {
     background-color: black;
     color: white;
     border: none;
-    border-right: 2px solid aqua;
+    border-right: 2px solid rgb(160, 53, 222);
     border-bottom: 2px solid aqua;
     padding: 10px 20px;
     font-weight: bold;
